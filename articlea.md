@@ -92,3 +92,5 @@ Enjoy exploring Python and remember, the best way to learn is by doing. Start wr
 ***Welcome to the team!***
 
 [//]: # (Added a final word)
+
+**Lorem ipsum dolor sit amet**
